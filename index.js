@@ -80,5 +80,3 @@ app.use(express.static(path.join(__dirname, 'public')))
 app.listen(8080, () => {
     console.log("start server in port 8080")
 })
-
-///// test
